@@ -94,3 +94,5 @@ per-class accuracy-ის დალოგვამ კი გამოავლ�
 WandB-ის ლინკი:
 [WandB Project](https://wandb.ai/ejoba22-free-university-of-tbilisi-/fer2013-emotion-recognition)
 
+რეპორტის ლინკი:
+https://api.wandb.ai/links/ejoba22-free-university-of-tbilisi-/rs73o7oa
